@@ -1,11 +1,4 @@
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-PRECIOS  PROMEDIO A CONSUMIDOR FINAL EN CIUDAD CAPITAL;;;;;;;;
-;;;;;;;;
 FECHA;Tipo de Cambio;Superior;Regular;Diesel;Bunker;Glp Cilindro 25Lbs.;;
-;GTQ/USD;GTQ/GALON;GTQ/GALON;GTQ/GALON;GTQ/GALON;GTQ/CIL 25 LB;GTQ/LB;
 01/ene/2021;7,79382; 21,91 ; 21,11 ; 17,61 ; 13,40 ; 99,00 ; 3,96 ;
 02/ene/2021;7,79382; 21,91 ; 21,11 ; 17,61 ; 13,40 ; 99,00 ; 3,96 ;
 03/ene/2021;7,79382; 21,91 ; 21,11 ; 17,61 ; 13,40 ; 99,00 ; 3,96 ;
@@ -371,6 +364,3 @@ FECHA;Tipo de Cambio;Superior;Regular;Diesel;Bunker;Glp Cilindro 25Lbs.;;
 29/dic/2021;7,71924; 28,69 ; 27,91 ; 24,51 ; 17,28 ; 122,00 ; 4,88 ;
 30/dic/2021;7,71912; 28,69 ; 27,91 ; 24,51 ; 17,28 ; 122,00 ; 4,88 ;
 31/dic/2021;7,71912; 28,69 ; 27,91 ; 24,51 ; 17,28 ; 122,00 ; 4,88 ;
-Fuente precios nacionales: Sección Comercialización de Combustibles DGH, MEM.;;;;;;;;
-Fuente tipo de cambio: Banco de Guatemala.;;;;;;;;
-;;;;;;;;
