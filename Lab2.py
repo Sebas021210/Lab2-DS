@@ -1,4 +1,14 @@
 # %%
+"""
+# Laboratorio No. 2 - Data Science
+"""
+
+# %%
+"""
+Manuel Rodas - 21509 / Sebastián Solorzano - 21826
+"""
+
+# %%
 import pandas as pd
 import numpy as np
 import seaborn as sns
@@ -7,7 +17,7 @@ from scipy.stats import shapiro
 from statsmodels.tsa.stattools import adfuller
 from pmdarima import auto_arima
 from prophet import Prophet
-from statsmodels.graphics.tsaplots import plot_acf
+from statsmodels.graphics.tsaplots import plot_acf, plot_pacf
 from statsmodels.tsa.arima.model import ARIMA
 
 # %%
@@ -481,3 +491,8 @@ forecast = prophet_model.predict(future)
 fig = prophet_model.plot(forecast)
 plt.title('Modelo Prophet - Precios Diarios')
 plt.show()
+
+# %%
+"""
+### Predicciones serie de consumos
+"""
